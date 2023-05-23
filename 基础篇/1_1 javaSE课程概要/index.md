@@ -27,10 +27,6 @@
 { "title": "请打开Shell工具输入ls操作", 
 "tool": "shell" }
 ```{{active 00:00:10}}
-```valiate
- { "title": "请打开资源管理器index.js文件，点击运行",
- "tool": "run" }
-```{{active 00:00:20}}
 
 ```question
 {
